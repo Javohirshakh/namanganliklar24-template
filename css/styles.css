@@ -1,0 +1,115 @@
+.exchange{
+  color: #515151;
+  font-weight: bold;
+}
+.lang span{
+  color: #535353;
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 18px;
+  background-color: #fff;
+}
+button{
+  background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+  color: #fff;
+}
+header nav a{
+  color: #515151;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: normal;
+}
+.statistics{
+  list-style: none;
+  background: #F6F6F9;
+}
+.paragraph span{
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+.red p{
+  color: #DB0000;
+}
+.green p{
+  color: #05B135;
+}
+.statistics span{
+  color: black;
+}
+.main ul{
+  list-style: none;
+}
+.main a{
+  color: #202020;
+  text-decoration: none;
+  font-weight: bold;
+}
+.main time{
+  color: #6B6D97;
+}
+.mail{
+  background: #EFBA542E;
+}
+.mail h1{
+  font-size: 20px;
+  color: #000;
+  line-height: 24px;
+}
+.mail button{
+  background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+  color: #Fff;
+}
+.articles h2{
+  color: #000;
+  font-size: 20px;
+}
+.articles ul{
+  list-style: none;
+}
+.articles ul a{
+  color: #000;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+.articles ul p{
+  color: #434343;
+}
+.articles ul time{
+  color: #7688A4;
+}
+.more{
+  background: #295093;
+}
+aside h3{
+  font-size: 20px;
+}
+aside ul{
+  list-style: none;
+}
+aside ul a{
+  color: #000;
+  text-decoration: none;
+  font-size: 17px;
+}
+aside ul time{
+  color: #7688A4;
+  font-size: 14px;
+}
+footer{
+  background: #295093;
+  color: #Fff;
+}
+footer p{
+  font-weight: bold;
+}
+footer a{
+  text-decoration: none;
+  color: #fff;
+}
+footer ul{
+  list-style: none;
+  font-weight: bold;
+}
