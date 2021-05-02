@@ -1,4 +1,16 @@
+header .top{
+  display: flex;
+  justify-content: space-between;
+}
+.top-left{
+  display: flex;
+}
+.top-right{
+  display: flex;
+}
 .exchange{
+  display: flex;
+  list-style: none;
   color: #515151;
   font-weight: bold;
 }
@@ -13,6 +25,9 @@ button{
   background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
   color: #fff;
 }
+head nav{
+  display: flex;
+}
 header nav a{
   color: #515151;
   text-decoration: none;
@@ -21,6 +36,8 @@ header nav a{
   font-style: normal;
 }
 .statistics{
+  display: flex;
+  justify-content: space-between;
   list-style: none;
   background: #F6F6F9;
 }
@@ -98,6 +115,11 @@ aside ul time{
   color: #7688A4;
   font-size: 14px;
 }
+.follow{
+  display: flex;
+}
+.follow div{
+}
 footer{
   background: #295093;
   color: #Fff;
@@ -112,4 +134,17 @@ footer a{
 footer ul{
   list-style: none;
   font-weight: bold;
+}
+.telegram{
+  display: flex;
+}
+.telegram div{
+  display: flex;
+  justify-content: space-between;
+}
+.footer{
+  display: flex;
+}
+.footer > *{
+  flex: 1;
 }
